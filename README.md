@@ -34,7 +34,7 @@ Doporučeno: HTTPS pro bezpečný přístup.
 1. Stažení projektu:
    - Přes Git:
      ```bash
-     git clone https://github.com/radopere/odkladiste.git
+     git clone https://github.com/radopere/Odkladiste.git
      ```
    - Nebo stáhnout jako ZIP a rozbalit.
 
