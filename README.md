@@ -46,10 +46,4 @@ Doporučeno: HTTPS pro bezpečný přístup.
 
 ## Konfigurace
 
-Veškeré základní nastavení (uživatelé, oprávnění, hesla) najdete v souboru `config.php`.
-
-## Licence
-
-Tento projekt je licencován pod [MIT licencí](LICENSE).
-
----
+Veškeré základní nastavení najdete v souboru `config.php`.
