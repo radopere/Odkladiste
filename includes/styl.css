@@ -1,0 +1,23 @@
+html, body {height: 100%;}
+body {display: flex; flex-direction: column;}
+main {flex: 1;}
+.dropzone {border: 2px dashed #ccc; border-radius: 5px; padding: 20px; text-align: center; margin-bottom: 20px; transition: all 0.3s;}
+.dropzone.highlight {border-color: #0d6efd; background-color: #f8f9fa;}
+        
+.btn-purple {color: #ffffff; background-color: #6f42c1;}
+.btn-purple:hover {background-color: #643bad; color: white;}
+
+.btn-outline-purple {color: #6f42c1; border-color: #6f42c1;}
+.btn-outline-purple:hover {background-color: #6f42c1; color: white;}
+
+.btn-pink {color: #ffffff; background-color: #d63384;}
+.btn-pink:hover {background-color: #d63384; color: white;}
+
+.btn-outline-pink {color: #d63384; border-color: #d63384;}
+.btn-outline-pink:hover {background-color: #d63384; color: white;}
+
+.btn-orange {color: #ffffff; background-color: #fd7e14;}
+.btn-orange:hover {background-color: #d96c11; color: white;}
+
+.btn-outline-orange {color: #fd7e14; border-color: #fd7e14;}
+.btn-outline-orange:hover {background-color: #fd7e14; color: white;}
