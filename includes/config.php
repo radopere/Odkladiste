@@ -2,9 +2,9 @@
 
 $USERS = [
 
-    'ora0609' => 'admin',
+    'admin' => 'admin',
 
-    'demouser' => 'user',
+    'user' => 'user',
 
 ];
 
